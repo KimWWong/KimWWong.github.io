@@ -14,7 +14,7 @@
 #stack: Astro, JavaScript
 #website: https://astro-milky-way.netlify.app/
 #github: https://github.com/ttomczak3/Milky-Way
-title: 'Project 4'
+title: 'Miscellaneous Projects'
 description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
 platform: Web
 stack: Astro, JavaScript

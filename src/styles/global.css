@@ -20,6 +20,11 @@
     --body: 'Open Sans', sans-serif;
 }
 
+::selection {
+  color: black;
+  background: #abd6de;
+}
+
 
 html {
     background-color: var(--background);
