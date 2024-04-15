@@ -10,13 +10,53 @@ const pageTitle = "Works";
         <img width="300" height="259" alt="RaccoonLaptopGif" src="/laptop.webp"/>
     </div>
     <h2>Projects</h2>
+    <!--<ul role="list" class="link-card-grid">-->
+    <!--    {allProjects.map((card) => <Card-->
+    <!--        url={`/projects/${card.slug}/`}-->
+    <!--        image={card.data.image.url}-->
+    <!--        title={card.data.title} -->
+    <!--        body={card.data.description}-->
+    <!--    />)}-->
+    <!--</ul>-->
     <ul role="list" class="link-card-grid">
-        {allProjects.map((card) => <Card 
-            url={`/projects/${card.slug}/`} 
-            image={card.data.image.url} 
-            title={card.data.title} 
+        {allProjects.map((card) => <Card
+            url={`/projects/${card.slug}/`}
+            title={card.data.title}
             body={card.data.description}
         />)}
     </ul>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div class="bg-gray-100 p-4 rounded-lg ">
+            <p class="font-medium">
+            The Title of Your Publication
+            </p>
+            <p class="italic text-sm mb-2">
+            Author, A., & Coauthor, B. (Year)
+            </p>
+            <p class="text-gray-600">Journal Name, volume(issue), pages</p>
+            <a href="" class="text-blue-600 hover:underline">DOI</a>
+        </div>
+        <div class="bg-gray-100 p-4 rounded-lg ">
+            <p class="font-medium">
+            The Title of Your Publication
+            </p>
+            <p class="italic text-sm mb-2">
+            Author, A., & Coauthor, B. (Year)
+            </p>
+            <p class="text-gray-600">Journal Name, volume(issue), pages</p>
+            <a href="" class="text-blue-600 hover:underline">DOI</a>
+        </div>
+        <div class="bg-gray-100 p-4 rounded-lg ">
+            <p class="font-medium">
+            The Title of Your Publication
+            </p>
+            <p class="italic text-sm mb-2">
+            Author, A., & Coauthor, B. (Year)
+            </p>
+            <p class="text-gray-600">Journal Name, volume(issue), pages</p>
+            <a href="" class="text-blue-600 hover:underline">DOI</a>
+        </div>
+    </div>
 </Layout>
 
