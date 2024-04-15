@@ -4,15 +4,18 @@
     /*--background: #373542;*/
     --background-light: #fdf2ec;
     --button: #AEE8DB;
-    --button-light: #61a191;
+    --button-light: #569888;
+    /*--button-light: #61a191;*/
     /*--text: #ebf9fd;*/
     --text: #fffef3;
-    --text-light: #5b4b46;
+    --text-light: #5b4d46;
     --text-header: #fffef3;
-    --text-header-light: #4e3d42;
+    --text-header-light: #4e443d;
     --text-link: #78c2ad;
+    /*--text-link: #569888;*/
     --underline: #fe7a71;
-    --underline-light: #61a191;
+    /*--underline-light: #61a191;*/
+    --underline-light: #569888;
     --header: 'Open Sans', sans-serif;
     --body: 'Open Sans', sans-serif;
 }
