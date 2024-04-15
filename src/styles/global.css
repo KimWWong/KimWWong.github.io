@@ -1,12 +1,18 @@
 /* Global styles */
 :root {
-    --background: #1e1e2e; 
-    --background-light: #fdebf3;
-    --button: #78c2ad;
-    --text: #fdebf3;
-    --text-light: #1e1e2e; 
+    --background: #2e2b42;
+    /*--background: #373542;*/
+    --background-light: #fdf2ec;
+    --button: #AEE8DB;
+    --button-light: #61a191;
+    /*--text: #ebf9fd;*/
+    --text: #fffef3;
+    --text-light: #5b4b46;
+    --text-header: #fffef3;
+    --text-header-light: #4e3d42;
     --text-link: #78c2ad;
-    --underline: #375a7f;
+    --underline: #fe7a71;
+    --underline-light: #61a191;
     --header: 'Open Sans', sans-serif;
     --body: 'Open Sans', sans-serif;
 }
@@ -23,6 +29,7 @@ body {
 }
 
 h1, h2 {
+    color: var(--text-header);
     font-family: var(--header);
     font-weight: normal;
 }
@@ -94,8 +101,8 @@ small, li {
 
 /* Badge */
 .badge {
-    background-color: #584966;
-    color: var(--text);
+    background-color: var(--button);
+    color: var(--background);
     border-radius: 6px;
     font-family: var(--body);
     font-weight: 600;
@@ -290,12 +297,33 @@ html.light {
     color: var(--text-light);
 }
 
+.light h2 {
+    text-decoration: underline var(--underline-light);
+    color: var(--text-header-light);
+}
+
+.light h1 {
+    color: var(--text-header-light);
+}
+
 .light .navbar__title > a {
     color: var(--text-light);
 }
 
 .light .navbar__menu > a {
     color: var(--text-light);
+}
+
+.light .navbar__title > a:hover {
+    text-decoration: underline var(--underline-light);
+}
+
+.light .navbar__menu > a:hover {
+    text-decoration: underline var(--underline-light);
+}
+
+.light .navbar__menu > a:focus {
+    text-decoration: underline var(--underline-light);
 }
 
 .light .card__title {
@@ -306,12 +334,19 @@ html.light {
     color: var(--text-light); 
 }
 
+.light .badge {
+    background-color: var(--button-light);
+    color: var(--background-light);
+}
+
 .light .btn {
     color: var(--text-light);
+    border: 2px solid var(--button-light);
 }
 
 .light .btn:hover {
     color: var(--text);
+    background-color: var(--button-light);
 }
 
 .light .icon__link {
