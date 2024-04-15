@@ -2,23 +2,24 @@
 :root {
     --background: #2e2b42;
     /*--background: #373542;*/
-    --background-light: #fdf2ec;
+    --background-light: #fffcf4;
     --button: #AEE8DB;
-    --button-light: #569888;
-    /*--button-light: #61a191;*/
+    /*--button-light: #569888;*/
+    --button-light: #61a191;
     /*--text: #ebf9fd;*/
     --text: #fffef3;
-    --text-light: #5b4d46;
+    --text-light: #5b4c46;
     --text-header: #fffef3;
-    --text-header-light: #4e443d;
+    --text-header-light: #413a33;
     --text-link: #78c2ad;
     /*--text-link: #569888;*/
     --underline: #fe7a71;
-    /*--underline-light: #61a191;*/
-    --underline-light: #569888;
+    --underline-light: #61a191;
+    /*--underline-light: #569888;*/
     --header: 'Open Sans', sans-serif;
     --body: 'Open Sans', sans-serif;
 }
+
 
 html {
     background-color: var(--background);
@@ -310,11 +311,11 @@ html.light {
 }
 
 .light .navbar__title > a {
-    color: var(--text-light);
+    color: var(--text-header-light);
 }
 
 .light .navbar__menu > a {
-    color: var(--text-light);
+    color: var(--text-header-light);
 }
 
 .light .navbar__title > a:hover {
