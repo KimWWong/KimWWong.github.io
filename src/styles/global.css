@@ -8,8 +8,8 @@
     --button-light: #61a191;
     /*--text: #ebf9fd;*/
     --text: #fffef3;
-    --text-light: #5b4c46;
     --text-header: #fffef3;
+    --text-light: #5b4c46;
     --text-header-light: #413a33;
     --text-link: #78c2ad;
     /*--text-link: #569888;*/
@@ -18,6 +18,7 @@
     /*--underline-light: #569888;*/
     --header: 'Open Sans', sans-serif;
     --body: 'Open Sans', sans-serif;
+
 }
 
 ::selection {
@@ -51,7 +52,7 @@ h1 {
 
 h2 {
     text-decoration: underline var(--underline);
-    /*text-decoration-thickness: 3px;*/
+    text-decoration-thickness: 3.5px;
     text-underline-offset: 6px;
     font-size: 2.1rem;
     margin-bottom: 0;
@@ -116,6 +117,16 @@ small, li {
     text-align: center;
 }
 
+/* mainphoto */
+.mainphoto {
+    margin:  20px 0 20px 0;
+    text-align: center;
+}
+
+.headshot {
+   border: 3.5px solid #fffef3;
+}
+
 /* Badge */
 .badge {
     background-color: var(--button);
@@ -163,7 +174,7 @@ small, li {
     padding: 16px;
     border-radius: 10px;
     background-color: #252231;
-    border: 1px solid #fe7a71;
+    border: 1.5px solid #fe7a71;
 }
 
 .card__link {
@@ -327,6 +338,10 @@ html.light {
 
 .light h1 {
     color: var(--text-header-light);
+}
+
+.light .headshot {
+   border: 3px solid #e8e7e8;
 }
 
 .light .navbar__title > a {
