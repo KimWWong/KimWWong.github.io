@@ -51,10 +51,18 @@ h1 {
 
 h2 {
     text-decoration: underline var(--underline);
-    text-decoration-thickness: 4px;
+    /*text-decoration-thickness: 3px;*/
     text-underline-offset: 6px;
     font-size: 2.1rem;
     margin-bottom: 0;
+}
+
+p {
+    font-family: var(--body);
+    font-size: 1.1rem;
+    hyphens: auto;
+    line-height: 1.5;
+    text-indent: 1rem;
 }
 
 p {
@@ -98,7 +106,7 @@ small, li {
 
 .navbar__title > a:hover, .navbar__menu > a:hover, .navbar__menu > a:focus {
     text-decoration: underline var(--underline);
-    text-decoration-thickness: 2px;
+    /*text-decoration-thickness: 2px;*/
     text-underline-offset: 6px;
 }
 
@@ -149,9 +157,13 @@ small, li {
 /* Cards */
 .card {
     list-style: none;
+    color: black;
     display: flex;
     background-size: 400%;
-    padding: 20px;
+    padding: 16px;
+    border-radius: 10px;
+    background-color: #252231;
+    border: 1px solid #fe7a71;
 }
 
 .card__link {
@@ -167,6 +179,7 @@ small, li {
 }
 
 .card__title {
+    color: var(--text-header);
     margin: 0;
     font-family: var(--body);
     font-size: 1.5rem;
@@ -175,6 +188,7 @@ small, li {
 }
 
 .card__txt {
+    color: var(--text);
     font-size: 1rem;
     line-height: 1.5;
     text-indent: 0;
@@ -335,12 +349,19 @@ html.light {
     text-decoration: underline var(--underline-light);
 }
 
+.light .card {
+    background-color: #eaeaea;
+    border: 2px solid #eaeaea;
+}
+
 .light .card__title {
-    color: var(--text-light); 
+    /*color: var(--text-light);*/
+    color: var(--text-header-light);
 }
 
 .light .card__txt {
-    color: var(--text-light); 
+    color: var(--text-light);
+    /*color: var(--background);*/
 }
 
 .light .badge {
