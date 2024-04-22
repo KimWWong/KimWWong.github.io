@@ -63,7 +63,7 @@ github: https://github.com/ttomczak3/Milky-Way
 
 <p style="padding-left: 1.0rem; text-indent: 0rem; font-size: 1.0rem;">
     Shah, A. D., Wong, K. W., Ilker, Y., & Scholl, B. J. (2023).
-    Perceiving precarity (beyond instability) in block towers
+    Perceiving precarity (beyond instability) in block towers.
     Poster presented at the annual meeting of the <b><i>Vision Sciences Society</i></b>, 
     5/23/21, Online.  
 </p>
