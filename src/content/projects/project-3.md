@@ -16,7 +16,7 @@
 #github: https://github.com/ttomczak3/Milky-Way
 
 title: 'Percieving "Unfinishedness"'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+description: 'A new visual "Zeigarnik Effect": sensitivity to unfinishedness even despite task-irrelevance'
 platform: Web
 stack: Astro, JavaScript
 website: https://astro-milky-way.netlify.app/

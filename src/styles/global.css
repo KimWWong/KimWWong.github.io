@@ -33,7 +33,7 @@ html {
 }
 
 body {
-    max-width: 570px;
+    max-width: 580px;
     margin: 0 auto;
     text-align: left;
 }
@@ -59,24 +59,59 @@ h2 {
 }
 
 p {
+    overflow-wrap: break-word;
     font-family: var(--body);
     font-size: 1.1rem;
-    hyphens: auto;
+    /*hyphens: auto;*/
     line-height: 1.5;
     text-indent: 1rem;
 }
 
-p {
-    font-family: var(--body);
-    font-size: 1.1rem;
-    hyphens: auto;
-    line-height: 1.5;
-    text-indent: 1rem;
-}
 
 small, li {
-    font-family: var(--body); 
+    font-family: var(--body);
 }
+
+ol {
+    padding-left: 0.0rem;
+    list-style-type: none;
+}
+
+details {
+    padding-left: 1rem;
+    overflow-wrap: break-word;
+    font-family: var(--body);
+    font-size: 1.0rem;
+    /*hyphens: auto;*/
+    line-height: 1.5;
+    /*text-indent: 1rem;*/
+}
+
+summary {
+    color: var(--text-link);
+}
+
+details > p {
+    font-size: 1.0rem;
+    padding-left: 1rem;
+}
+
+/*details[open] {*/
+/*  padding: 0.5em;*/
+/*}*/
+
+/*details[open] {*/
+/*    !*border-top:1px solid #aaa;*!*/
+/*  border-bottom: 1px solid #aaa;*/
+/*  margin-bottom: 0.5em;*/
+/*}*/
+
+/*details > summary {*/
+/*  list-style: none;*/
+/*}*/
+/*details > summary::-webkit-details-marker {*/
+/*  display: none;*/
+/*}*/
 
 /* Navigation Bar */
 .navbar {
@@ -153,6 +188,7 @@ small, li {
     font-size: 0.7rem;
     margin-right: 5px;
     padding: 0.5em 0.3em 0.3em 0.3em;
+
 }
 
 .badge__link {
