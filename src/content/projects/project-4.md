@@ -41,7 +41,7 @@ github: https://github.com/ttomczak3/Milky-Way
 
 <li><span class="badge badge--item">RELEVANT PRESENTATIONS</span>
 <p style="padding-left: 1.0rem; text-indent: 0rem; font-size: 1.0rem;">
-    Dhar, P., Ongchoco, J. D. K., Wong, K., & Scholl, B. J. (2023). 
+    Dhar, P., Ongchoco, J. D. K., Wong, K. W., & Scholl, B. J. (2023). 
     Somehow, everything has changed: Event boundaries defined only by unnoticed changes in implicit visuospatial statistics drive active forgetting in visual working memory. 
     Poster presented at the annual meeting of the <b><i>Vision Sciences Society</i></b>, 
     5/20/23, St. Pete Beach, FL.  
