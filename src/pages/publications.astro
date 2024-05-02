@@ -3,36 +3,13 @@ import { getCollection } from "astro:content";
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
 const allProjects = await getCollection("projects");
-const pageTitle = "Research Projects";
+const pageTitle = "Publications";
 ---
 <Layout pageTitle={pageTitle}>
     <!--<div class="gif">-->
     <!--    <img width="300" height="259" alt="RaccoonLaptopGif" src="/laptop.webp"/>-->
     <!--</div>-->
-     <h2>Overview</h2>
-
-    <p>A central question in much of my work is: <b>"What do we <i>see</i>?"</b> When "vision" or "perception" is discussed in textbooks, we find pages and pages about processing "low level" properties such as color, orientation, or motion. But in my work, I aim to push our understanding of visual processing, exploring how perception also includes processing traditionally 'higher-level' concepts -- specifically in intuitive physics, unfinishedness, and animacy.</p>
-
-    <h2>Research Projects</h2>
-    <!--<ul role="list" class="link-card-grid">-->
-    <!--    {allProjects.map((card) => <Card-->
-    <!--        url={`/projects/${card.slug}/`}-->
-    <!--        image={card.data.image.url}-->
-    <!--        title={card.data.title} -->
-    <!--        body={card.data.description}-->
-    <!--    />)}-->
-    <!--</ul>-->
-
-    <p style="text-align: center; font-size: 1.1rem">Click on any below to read more!</p>
-
-    <ul role="list" class="link-card-grid">
-        {allProjects.map((card) => <Card
-            url={`/projects/${card.slug}/`}
-            title={card.data.title}
-            body={card.data.description}
-        />)}
-    </ul>
-
+    <h2>Publications</h2>
 
     <!--<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">-->
     <!--    <div class="bg-gray-100 p-4 rounded-lg ">-->
@@ -66,11 +43,15 @@ const pageTitle = "Research Projects";
     <!--        <a href="" class="text-blue-600 hover:underline">DOI</a>-->
     <!--    </div>-->
     <!--</div>-->
-    <!--<h2>Publication Highlights</h2>-->
+    <h2>Manuscripts</h2>
 
-    <!--<p style="text-indent: 0rem; font-size: 1.0rem;">-->
-    <!--    Wong, K. W., Bi, W., Soltani, A. A., Yildirim, I., & Scholl, B. J. (2023). Seeing soft materials draped over objects: A case study of intuitive physics in perception, attention, and memory. <i>Psychological Science</i>, <i>34</i>(1), 111-119.-->
-    <!--    <a class="footer__link" href="https://doi.org/10.1177/09567976221109194" target="_blank">[DOI]</a>-->
-    <!--</p>-->
+
+    <h2>Journal Articles</h2>
+    <p style="text-indent: 0rem; font-size: 1.0rem;">
+        Wong, K. W., Bi, W., Soltani, A. A., Yildirim, I., & Scholl, B. J. (2023). Seeing soft materials draped over objects: A case study of intuitive physics in perception, attention, and memory. <i>Psychological Science</i>, <i>34</i>(1), 111-119.
+        <a class="footer__link" href="https://doi.org/10.1177/09567976221109194" target="_blank">[DOI]</a> <a class="footer__link" href="/wong-etal-2023-cloth-soft-materials.pdf" target="_blank">[DOI]</a>
+    </p>
+
+    <h2>Conference Talks & Presentations</h2>
 </Layout>
 
