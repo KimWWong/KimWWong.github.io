@@ -64,7 +64,7 @@ p {
     font-size: 1.1rem;
     /*hyphens: auto;*/
     line-height: 1.5;
-    text-indent: 1rem;
+    text-indent: 1.5rem;
 }
 
 
@@ -116,13 +116,16 @@ details > p {
 /* Navigation Bar */
 .navbar {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    /*grid-template-columns: 1fr ;*/
+    grid-template-columns: auto auto;
     margin-top: 0.8rem;
 }
 
 .navbar__title {
     font-family: var(--header);
     font-size: 1.3rem;
+    /*margin-top: 0.8rem;*/
+    /*text-align: left;*/
 }
 
 .navbar__menu {
@@ -137,7 +140,7 @@ details > p {
 }
 
 .navbar__menu > a {
-    margin: 0 10px;
+    margin: 0 8px;
 }
 
 .navbar__title > a:hover, .navbar__menu > a:hover, .navbar__menu > a:focus {
