@@ -5,7 +5,9 @@
     --background-light: #fffcf4;
     --button: #AEE8DB;
     /*--button-light: #569888;*/
-    --button-light: #61a191;
+    /*--button-light: #61a191;*/
+    /*--button-light: #adc9c6;*/
+    --button-light: #adc9c8;
     /*--text: #ebf9fd;*/
     --text: #fffef3;
     --text-header: #fffef3;
@@ -14,8 +16,9 @@
     --text-link: #78c2ad;
     /*--text-link: #569888;*/
     --underline: #fe7a71;
-    --underline-light: #61a191;
-    /*--underline-light: #569888;*/
+    /*--underline-light: #61a191;*/
+    --underline-light: #569888;
+    /*--underline-light: #5b4b46;*/
     --header: 'Open Sans', sans-serif;
     --body: 'Open Sans', sans-serif;
 
@@ -67,6 +70,16 @@ p {
     text-indent: 1.5rem;
 }
 
+.p1 {
+    padding-left: 1.0rem;
+    text-indent: 0rem;
+    font-size: 1.0rem;
+    overflow-wrap: break-word;
+    font-family: var(--body);
+    /*hyphens: auto;*/
+    line-height: 1.5;
+}
+
 
 small, li {
     font-family: var(--body);
@@ -83,24 +96,34 @@ details {
     font-family: var(--body);
     font-size: 1.0rem;
     /*hyphens: auto;*/
-    line-height: 1.5;
+    /*line-height: 1.0;*/
+    line-height: 0;
     /*text-indent: 1rem;*/
+    margin-bottom: 1.75em;
 }
 
 summary {
     color: var(--text-link);
+
 }
 
 details > p {
     font-size: 1.0rem;
     padding-left: 1rem;
+    padding-bottom: 0;
+
 }
 
 /*details[open] {*/
 /*  padding: 0.5em;*/
 /*}*/
 
-/*details[open] {*/
+details[open] {
+    /*border-top:1px solid #aaa;*/
+  /*border-bottom: 1px solid #aaa;*/
+  margin-bottom: 1.2em;
+}
+/*details[close] {*/
 /*    !*border-top:1px solid #aaa;*!*/
 /*  border-bottom: 1px solid #aaa;*/
 /*  margin-bottom: 0.5em;*/
@@ -130,7 +153,7 @@ details > p {
 
 .navbar__menu {
     font-family: var(--body);
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     text-align: right;
 }
 
@@ -144,7 +167,8 @@ details > p {
 }
 
 .navbar__title > a:hover, .navbar__menu > a:hover, .navbar__menu > a:focus {
-    text-decoration: underline var(--underline);
+    /*text-decoration: underline var(--underline);*/
+    text-decoration: underline var(--button);
     /*text-decoration-thickness: 2px;*/
     text-underline-offset: 6px;
 }
@@ -163,6 +187,11 @@ details > p {
 
 .headshot {
    border: 3.5px solid #fffef3;
+}
+
+.figure {
+   border: 3.5px solid #fffef3;
+   background-color: white;
 }
 
 /* Badge */
@@ -301,6 +330,7 @@ footer {
 
 .footer__link {
     color: var(--text-link);
+    /*color: var(--button-light);*/
     text-decoration: none;
 }
 
@@ -383,6 +413,10 @@ html.light {
    border: 3px solid #e8e7e8;
 }
 
+.light .figure {
+   border: 0px;
+}
+
 .light .navbar__title > a {
     color: var(--text-header-light);
 }
@@ -392,15 +426,18 @@ html.light {
 }
 
 .light .navbar__title > a:hover {
-    text-decoration: underline var(--underline-light);
+    /*text-decoration: underline var(--underline-light);*/
+    text-decoration: underline var(--button-light);
 }
 
 .light .navbar__menu > a:hover {
-    text-decoration: underline var(--underline-light);
+    /*text-decoration: underline var(--underline-light);*/
+    text-decoration: underline var(--button-light);
 }
 
 .light .navbar__menu > a:focus {
-    text-decoration: underline var(--underline-light);
+    /*text-decoration: underline var(--underline-light);*/
+    text-decoration: underline var(--button-light);
 }
 
 .light .card {
@@ -420,7 +457,9 @@ html.light {
 
 .light .badge {
     background-color: var(--button-light);
+    /*background-color: #61a191;*/
     color: var(--background-light);
+    /*color: var(--text-header-light);*/
 }
 
 .light .btn {

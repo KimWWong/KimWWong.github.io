@@ -26,10 +26,8 @@ github: https://github.com/ttomczak3/Milky-Way
 [//]: # (TYPE DESCRPTION HERE Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.)
 
 
-<ol>
-<br>
-<li><span class="badge badge--item">RELEVANT UNDER REVIEW</span>
-<p style="padding-left: 1.0rem; text-indent: 0rem; font-size: 1.0rem;">
+<p></p><span class="badge badge--item">RELEVANT UNDER REVIEW</span>
+<p class="p1">
     Wong, K. W., & Scholl, B. J. (<i>under review</i>). Spontaneous path tracing in task-irrelevant mazes: Spatial affordances trigger dynamic visual routines.
 
 [//]: # (    <br><a class="footer__link" href="https://doi.org/10.1177/09567976221109194" target="_blank">[DOI]</a>)
@@ -40,9 +38,9 @@ github: https://github.com/ttomczak3/Milky-Way
     Given a maze (e.g. in a book of puzzles), you might solve it by drawing out paths with your pencil.  But even without a pencil, you might naturally find yourself mentally tracing along various paths.  This ‘mental path tracing’ may intuitively seem to depend on your (overt, conscious, voluntary) goal of wanting to get out of the maze, but might it also occur spontaneously —as a result of simply seeing the maze, via a kind of dynamic ‘visual routine’?  Here, observers simply had to compare the visual properties of two probes presented in a maze.  The maze itself was entirely task-irrelevant, but we predicted that simply seeing the maze’s visual structure would ‘afford’ incidental mental path tracing (à la Gibson).  Across four experiments, observers were slower to compare probes that were further from each other along the paths, even when controlling for lower-level properties (such as the probes’ brute linear separation, ignoring the maze ‘walls’).  These results also generalized beyond mazes, to other unfamiliar displays with task-irrelevant circular obstacles.  This novel combination of two prominent themes from our field — affordances and visual routines — suggests that at least some visual routines may not require voluntary goals; instead, they may operate in an automatic (incidental, stimulus-driven) fashion, as a part of visual processing itself.
     </p></details>
 
-<br>
-<li><span class="badge badge--item">RELEVANT PRESENTATIONS</span>
-<p style="padding-left: 1.0rem; text-indent: 0rem; font-size: 1.0rem;">
+<p></p>
+<span class="badge badge--item">RELEVANT PRESENTATIONS</span>
+<p class="p1">
     Wong, K. W., & Scholl, B. J. (2023). 
     What memories are formed by dynamic 'visual routines'? 
     Poster presented at the annual meeting of the <b><i>Vision Sciences Society</i></b>, 
@@ -54,7 +52,7 @@ github: https://github.com/ttomczak3/Milky-Way
         </p>
     </details>
 
-<p style="padding-left: 1.0rem; text-indent: 0rem; font-size: 1.0rem;">
+<p class="p1">
     Wong, K. W., & Scholl, B. J. (2023). 
     Spatial affordances can automatically trigger dynamic visual routines: Spontaneous path tracing in task-irrelevant mazes.
     Talk presented at the annual meeting of the <b><i>Vision Sciences Society</i></b>, 
@@ -65,6 +63,3 @@ github: https://github.com/ttomczak3/Milky-Way
         Visual processing usually seems both incidental and instantaneous. But imagine viewing a jumble of shoelaces, and wondering whether two particular tips are part of the same lace. You can answer this by looking, but doing so may require something dynamic happening in vision (as the lace is effectively 'traced'). Such tasks are thought to involve 'visual routines': dynamic visual procedures that efficiently compute various properties on demand, such as whether two points lie on the same curve. Past work has suggested that visual routines are invoked by observers' particular (conscious, voluntary) goals, but here we explore the possibility that some visual routines may also be automatically triggered by certain stimuli themselves. In short, we suggest that certain stimuli effectively <i>afford</i> the operation of particular visual routines (as in Gibsonian affordances). We explored this using stimuli that are familiar in everyday experience, yet relatively novel in human vision science: mazes. You might often solve mazes by drawing paths with a pencil -- but even without a pencil, you might find yourself tracing along various paths <i>mentally</i>. Observers had to compare the visual properties of two probes that were presented along the paths of a maze. Critically, the maze itself was entirely task-irrelevant, but we predicted that simply <i>seeing</i> the visual structure of a maze in the first place would afford automatic mental path tracing. Observers were indeed slower to compare probes that were further from each other along the paths, even when controlling for lower-level visual properties (such as the probes' brute linear separation, i.e. ignoring the maze 'walls'). This novel combination of two prominent themes from our field -- affordances and visual routines -- suggests that at least some visual routines may operate in an automatic (fast, incidental, and stimulus-driven) fashion, as a part of basic visual processing itself.
         </p>
     </details>
-
-</li>
-</ol>

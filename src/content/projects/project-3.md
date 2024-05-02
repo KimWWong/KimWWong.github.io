@@ -22,10 +22,9 @@ stack: Astro, JavaScript
 website: https://astro-milky-way.netlify.app/
 github: https://github.com/ttomczak3/Milky-Way
 ---
-
-<ol>
-<li><span class="badge badge--item">RELEVANT PRESENTATIONS</span>
-<p style="padding-left: 1.0rem; text-indent: 0rem; font-size: 1.0rem;">
+<p></p>
+<span class="badge badge--item">RELEVANT PRESENTATIONS</span>
+<p class="p1">
     Ongchoco, J. D. K., Wong, K. W., & Scholl, B. J. (2023). 
     The "unfinishedness" of dynamic events is spontaneously extracted in visual processing: A new 'Visual Zeigarnik Effect'.
     Talk presented at the annual meeting of the <b><i>Vision Sciences Society</i></b>, 
@@ -37,6 +36,5 @@ github: https://github.com/ttomczak3/Milky-Way
         </p>
     </details>
 
-</li>
-</ol>
+
 
