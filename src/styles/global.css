@@ -61,6 +61,12 @@ h2 {
     margin-bottom: 0;
 }
 
+/*img {*/
+/*    max-width: 100%;*/
+/*    height: auto;*/
+/*    width: auto\9; !* ie8 *!*/
+/*}*/
+
 p {
     overflow-wrap: break-word;
     font-family: var(--body);
@@ -202,6 +208,9 @@ details[open] {
 .figure {
    border: 3.5px solid #fffef3;
    background-color: white;
+   max-width: 100%;
+   height: auto;
+   width: auto\9; /* ie8 */
     /*background-color: transparent;*/
 }
 
