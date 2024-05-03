@@ -80,6 +80,16 @@ p {
     line-height: 1.5;
 }
 
+.p2 {
+    padding-left: 0rem;
+    text-indent: 0rem;
+    font-size: 1.0rem;
+    overflow-wrap: break-word;
+    font-family: var(--body);
+    /*hyphens: auto;*/
+    line-height: 1.5;
+}
+
 
 small, li {
     font-family: var(--body);
@@ -192,6 +202,7 @@ details[open] {
 .figure {
    border: 3.5px solid #fffef3;
    background-color: white;
+    /*background-color: transparent;*/
 }
 
 /* Badge */
@@ -415,6 +426,7 @@ html.light {
 
 .light .figure {
    border: 0px;
+   background-color: transparent;
 }
 
 .light .navbar__title > a {

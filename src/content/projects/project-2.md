@@ -22,8 +22,21 @@ stack: Astro, JavaScript
 website: https://astro-milky-way.netlify.app/
 github: https://github.com/ttomczak3/Milky-Way
 ---
-
-[//]: # (TYPE DESCRPTION HERE Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.)
+<p class="p2"><b><u>What actually is a "Visual Routine"?</u></b></p>
+<p class="p2">Visual processing usually seems both incidental and instantaneous.  (You see color, for example, without needing to <i>try</i>, and without any noticeable lag.)  There are, however, fascinating exceptions to this rule.  For example, take a moment to glance at this picture before moving on.</p>
+    <div style="margin-left: 60px">
+        <img height="300" class="figure" alt="figure" src="/shoelaces.png"/>
+    </div>
+<p class="p2">Now consider some questions that could be asked about that figure (without looking back at it!)</p>
+<p class="p2" style="text-indent: 1em"><b>(1)</b> What color were the shoelaces?</p>
+<p class="p2">You can probably answer that question immediately, from memory — indicating that this property was extracted even before you were asked the question, just as a part of natural viewing.</p>
+<p class="p2">But what about this question: </p>
+<p class="p2" style="padding-left: 1em"><b>(2)</b> Were the green tip and the blue tip part of the same shoelace, or two different shoelaces?  </p>
+<p class="p2">You probably don’t know the answer yet, which indicates that this property was not extracted incidentally during natural viewing.  When you look back at Figure 1, of course, you can answer this question too — and you can do so merely by <i>looking</i> (i.e. even without using your finger to follow along a lace).  But notice that even here you can’t answer the question <i>immediately</i>: whereas you see the laces’ color seemingly instantaneously, seeing which tip goes with which seems to involve a process that is appreciably deliberate, dynamic, and temporally extended (as you mentally ‘trace’ from one tip to another).</p>
+<p class="p2">These types of visual operations that underlies your ability to answer the which-tip-goes-with-which question has been termed <b>‘visual routines’</b> (Ullman, 1984, 1996), and visual routines contrast with other forms of perception precisely in terms of the two features highlighted in that example: they are often invoked <b>only on demand</b> (rather than always occurring automatically), and they are inherently, appreciably <b>dynamic</b>, such that these operations often take some appreciable time to be executed.</p>
+<p class="p2">Not only has there been discussion of how visual routines may lie at the root of well-known visual processes such as: figure-ground relationships, containment (e.g. “Is it inside?”), and connectedness (e.g. “Are both points on the same contour?”), but they have been prominent enough to be reviewed in introductory textbooks (e.g. Palmer, 1999). </p>
+<p class="p2"><b><u>The Current Project</u></b></p>
+<p class="p2">The work here studies visual routines under a new lens, re-examining the assumptions that traditionally defined visual routines, and exploring new contexts where visual routines may operate.  (Spoiler: <i>Mazes</i>)</p>
 
 
 <p></p><span class="badge badge--item">RELEVANT UNDER REVIEW</span>
