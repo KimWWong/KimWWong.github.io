@@ -23,9 +23,20 @@ website: https://astro-milky-way.netlify.app/
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
-[//]: # (TYPE DESCRPTION HERE Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.)
+<p class="p2">The study of 'intuitive physics' really took off just from asking people questions just like these ones below:</p>
+    <div style="text-align:center;">
+        <img style="max-width: 100%;" class="figure" alt="figure" src="/physics-reasoning.png"/>
+    </div>
+<p class="p2">Classic work has demonstrated that most people <b>fail to answer correctly</b>. (If you didn't already know the answer, I've actually given you the correct answers in the image &mdash; the dotted arrows are all <i>incorrect</i> trajectories.) </p>
+<p class="p2">And such effects generalize to real-world behavior: When asked to drop a ball (while walking) to hit a marked target on the floor, for example, many people release the ball when it is directly over the target, mistakenly predicting that it will fall straight down (McCloskey, 1983). There are two salient themes that emerge from this work:</p>
+<p class="p2" style="text-indent: 1em"><b>(1)</b> People are often poor at reasoning about physics</p>
+<p class="p2" style="padding-left: 1em"><b>(2)</b> Intuitive physics is centrally a matter of higher-level reasoning and decision-making
+<p class="p2">And although some recent work in the computational modeling world is beginning to work away at theme 1 (finding the mind's weaknesses/strengths), <i>theme 2 remains unaddressed</i>.
 
-
+<p class="p2"><b><u>The Current Projects</u></b></p>
+<p class="p2">The work here illustrates how the two themes provide an incomplete picture of how physical regularities are incorporated into the human mind, and suggests that although people may often be <i>poor at reasoning</i> about physics, their visual percepts themselves reveal a surprising facility with physical principles. In short, we may often be poor at <b><i>thinking</i></b> about physics, but we may nevertheless also be better at <b><i>seeing</i></b> physics.
+<p class="p2">We are able to disentangle reasoning from seeing for 2 reasons: (1) instead of asking participants direct questions about the physical property in question (e.g. "Is this tower unstable enough to fall down?"), we employed subtler performance-based measures, which observers cannot intentionally control, and (2) the physics of the scene were completely task-irrelevant (and in some cases, participants would have performed better if they ignored the physics entire).
+<p class="p2">Here you will see studies of intuitive physics in not only rigid objects, but also soft materials such as cloth! </p>
 <p></p>
 <span class="badge badge--item">RELEVANT PAPERS</span>
 <p class="p1">
