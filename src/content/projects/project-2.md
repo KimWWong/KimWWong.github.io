@@ -37,7 +37,9 @@ github: https://github.com/ttomczak3/Milky-Way
 <p class="p2">Not only has there been discussion of how visual routines may lie at the root of well-known visual processes such as: figure-ground relationships, containment (e.g. “Is it inside?”), and connectedness (e.g. “Are both points on the same contour?”), but they have been prominent enough to be reviewed in introductory textbooks (e.g. Palmer, 1999). </p>
 <p class="p2"><b><u>The Current Project</u></b></p>
 <p class="p2">The work here studies visual routines under a new lens, re-examining the assumptions that traditionally defined visual routines, and exploring new contexts where visual routines may operate.  (Spoiler: <i>Mazes</i>)</p>
-
+    <div style="margin-left: 60px">
+        <img height="200" class="figure" alt="figure" src="/visroutines-mazedemo-trans.png"/>
+    </div>
 
 <p></p><span class="badge badge--item">RELEVANT UNDER REVIEW</span>
 <p class="p1">
