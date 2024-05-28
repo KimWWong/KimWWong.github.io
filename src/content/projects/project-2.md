@@ -43,10 +43,9 @@ github: https://github.com/ttomczak3/Milky-Way
 
 <p></p><span class="badge badge--item">RELEVANT UNDER REVIEW</span>
 <p class="p1">
-    Wong, K. W., & Scholl, B. J. (<i>under review</i>). Spontaneous path tracing in task-irrelevant mazes: Spatial affordances trigger dynamic visual routines.
-
-[//]: # (    <br><a class="footer__link" href="https://doi.org/10.1177/09567976221109194" target="_blank">[DOI]</a>)
-
+    Wong, K. W., & Scholl, B. J. (<i>in press</i>). Spontaneous path tracing in task-irrelevant mazes: Spatial affordances trigger dynamic visual routines.
+    <b><i>Journal of Experimental Psychology: General</i></b>.
+    <br><a class="footer__link" href="/Wong-Scholl-InPress-JEPG.pdf" target="_blank">[PDF]</a>
 </p>
     <details><summary>[Click to show abstract]</summary>
     <p>
