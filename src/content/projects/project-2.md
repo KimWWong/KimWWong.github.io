@@ -41,7 +41,7 @@ github: https://github.com/ttomczak3/Milky-Way
         <img height="200" class="figure" alt="figure" src="/visroutines-mazedemo-trans.png"/>
     </div>
 
-<p></p><span class="badge badge--item">RELEVANT UNDER REVIEW</span>
+<p></p><span class="badge badge--item">RELEVANT PUBLICATION</span>
 <p class="p1">
     Wong, K. W., & Scholl, B. J. (<i>in press</i>). Spontaneous path tracing in task-irrelevant mazes: Spatial affordances trigger dynamic visual routines.
     <b><i>Journal of Experimental Psychology: General</i></b>.
