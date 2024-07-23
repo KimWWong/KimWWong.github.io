@@ -47,10 +47,6 @@ github: https://github.com/ttomczak3/Milky-Way
     <b><i>Journal of Experimental Psychology: General</i></b>. Advance online publication.
     <br><a class="footer__link" href="https://doi.org/10.1037/xge0001618" target="_blank">[DOI]</a> <a class="footer__link" href="/Wong-Scholl-JEPG.pdf" target="_blank">[PDF]</a>
 </p>
-    <details><summary>[Click to show abstract]</summary>
-    <p>
-    Given a maze (e.g. in a book of puzzles), you might solve it by drawing out paths with your pencil.  But even without a pencil, you might naturally find yourself mentally tracing along various paths.  This ‘mental path tracing’ may intuitively seem to depend on your (overt, conscious, voluntary) goal of wanting to get out of the maze, but might it also occur spontaneously —as a result of simply seeing the maze, via a kind of dynamic ‘visual routine’?  Here, observers simply had to compare the visual properties of two probes presented in a maze.  The maze itself was entirely task-irrelevant, but we predicted that simply seeing the maze’s visual structure would ‘afford’ incidental mental path tracing (à la Gibson).  Across four experiments, observers were slower to compare probes that were further from each other along the paths, even when controlling for lower-level properties (such as the probes’ brute linear separation, ignoring the maze ‘walls’).  These results also generalized beyond mazes, to other unfamiliar displays with task-irrelevant circular obstacles.  This novel combination of two prominent themes from our field — affordances and visual routines — suggests that at least some visual routines may not require voluntary goals; instead, they may operate in an automatic (incidental, stimulus-driven) fashion, as a part of visual processing itself.
-    </p></details>
 
 <p></p>
 <span class="badge badge--item">RELEVANT PRESENTATIONS</span>
