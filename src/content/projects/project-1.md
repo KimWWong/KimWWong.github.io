@@ -41,7 +41,7 @@ github: https://github.com/ttomczak3/Milky-Way
 <span class="badge badge--item">RELEVANT PAPERS</span>
 <p class="p1">
     Wong, K. W., Bi, W., Soltani, A. A., Yildirim, I., & Scholl, B. J. (2023). Seeing soft materials draped over objects: A case study of intuitive physics in perception, attention, and memory. <b><i>Psychological Science</i></b>, <i>34</i>(1), 111-119.
-    <a class="footer__link" href="https://doi.org/10.1177/09567976221109194" target="_blank">[DOI]</a>
+    <br><a class="footer__link" href="https://doi.org/10.1177/09567976221109194" target="_blank">[DOI]</a> <a class="footer__link" href="/wong-etal-2023-PsychSci.pdf" target="_blank">[PDF]</a>
 </p>
 <p></p><span class="badge badge--item">RELEVANT UNDER REVIEW</span>
 <p class="p1">
