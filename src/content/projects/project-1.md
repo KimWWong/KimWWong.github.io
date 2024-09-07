@@ -16,7 +16,7 @@
 #github: https://github.com/ttomczak3/Milky-Way
 
 title: 'Seeing Intuitive Physics'
-description: 'When viewing static scenes, do we extract the dynamic underlying physics? Even spontaneously?'
+description: 'When viewing static scenes, do we extract the underlying physics? Even spontaneously?'
 platform: Web
 stack: Astro, JavaScript
 website: https://astro-milky-way.netlify.app/
