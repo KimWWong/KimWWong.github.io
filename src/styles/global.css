@@ -215,6 +215,11 @@ details[open] {
     /*background-color: transparent;*/
 }
 
+.video {
+  display: block;
+  margin: auto;
+}
+
 /* Badge */
 .badge {
     background-color: var(--button);
