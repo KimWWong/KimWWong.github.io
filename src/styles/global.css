@@ -217,7 +217,7 @@ details[open] {
 
 .video {
   display: block;
-  margin: auto;
+  margin: 0 auto;
 }
 
 /* Badge */

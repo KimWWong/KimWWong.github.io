@@ -29,7 +29,7 @@ This phenomenon was first explored empirically in the 1930s, under the heading o
 
 But is unfinishedness perhaps more foundational, such that it is rooted in visual processing itself? We believe so! Take a look at the following video, and see if you can <i>feel</i> the frustration of unfinishedness for yourself! This line of work explores such stimuli empirically, and to foreshadow, we find memory effects due to unfinishedness -- even when the unfinishedness in the scene is completely irrelevant to the memory task itself.
 
-<video width="600" autoplay loop muted>
+<video width="600" autoplay loop muted class="video" alt="video">
   <source src="/justUnfinishedness.mp4" type="video/mp4" />
   Your browser does not support the video, sorry! Feel free to email me for all the demos used in the experiments.
 </video>
