@@ -22,7 +22,19 @@ stack: Astro, JavaScript
 website: https://astro-milky-way.netlify.app/
 github: https://github.com/ttomczak3/Milky-Way
 ---
-<p></p>
+<p>
+For many of us, few things are more satisfying than finishing tasks.  And the flip-side of this is that unfinished tasks are often especially salient — as in half-written papers, half-completed crossword puzzles, or interrupted dinner preparations.  These items tend to preoccupy our thoughts in a persistent (and sometimes even frustrating) way, which seems specific to unfinishedness: the not-yet-started puzzle (or dinner) seems of little concern, and once completed, the puzzle/dinner is often already on its way to being forgotten — but when half-completed, such things tend to be especially mentally prominent.
+
+This phenomenon was first explored empirically in the 1930s, under the heading of the “Zeigarnik effect” (Zeigarnik, 1938).  Subjects were instructed to complete various tasks, but were interrupted by an experimenter and kept from completing some of them.  Afterwards, subjects were asked to recall as many of the tasks as they could, and those left unfinished were more likely to be remembered. 
+
+But is unfinishedness perhaps more foundational, such that it is rooted in visual processing itself? We believe so! Take a look at the following video, and see if you can <i>feel</i> the frustration of unfinishedness for yourself! This line of work explores such stimuli empirically, and to foreshadow, we find memory effects due to unfinishedness -- even when the unfinishedness in the scene is completely irrelevant to the memory task itself.
+
+<video width="600" autoplay loop muted>
+  <source src="justUnfinishedness.mp4" type="video/mp4" />
+  Your browser does not support the video, sorry! Feel free to email me for all the demos used in the experiments.
+</video>
+
+</p>
 <span class="badge badge--item">RELEVANT PRESENTATIONS</span>
 <p class="p1">
     Ongchoco, J. D. K., Wong, K. W., & Scholl, B. J. (2023). 
