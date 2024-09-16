@@ -22,7 +22,7 @@ website: https://astro-milky-way.netlify.app/
 github: https://github.com/ttomczak3/Milky-Way
 
 ---
-In addition to my main research projects, I have also been involved in a number of other projects that span a variety of topics.  
+<p class="p2">In addition to my main research projects, I have also engaged with a variety of other topics, which you can read about here:</p> 
 <p></p><span class="badge badge--item">RELEVANT PAPERS</span>
 <p class="p1">
     Ongchoco, J. D. K., Wong, K. W., & Scholl, B. J. (2024). 
