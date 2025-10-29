@@ -43,15 +43,10 @@ github: https://github.com/ttomczak3/Milky-Way
     Wong, K. W., Bi, W., Soltani, A. A., Yildirim, I., & Scholl, B. J. (2023). Seeing soft materials draped over objects: A case study of intuitive physics in perception, attention, and memory. <b><i>Psychological Science</i></b>, <i>34</i>(1), 111-119.
     <br><a class="footer__link" href="https://doi.org/10.1177/09567976221109194" target="_blank">[DOI]</a> <a class="footer__link" href="/wong-etal-2023-PsychSci.pdf" target="_blank">[PDF]</a>
 </p>
-<p></p><span class="badge badge--item">RELEVANT IN PRESS</span>
 <p class="p1">
-    Bi, W., Shah, A. D., Wong, K. W., Scholl, B. J., & Yildirim, I. (<i>in press</i>). Computational models reveal that intuitive physics underlies visual processing of soft objects. <i>Nature Communications.</i>
+    Bi, W., Shah, A. D., Wong, K. W., Scholl, B. J., & Yildirim, I. (2025). Computational models reveal that intuitive physics underlies visual processing of soft objects. <b><i>Nature Communications</i></b>. <i>16</i>(1), 6303.
+    <br><a class="footer__link" href="https://doi.org/10.1038/s41467-025-61458-x" target="_blank">[DOI]</a> <a class="footer__link" href="/bi-etal-2025-NatComm.pdf" target="_blank">[PDF]</a>
 </p>
-    <details><summary>[Show abstract]</summary>
-        <p>
-        Computational explorations of human cognition have been especially successful when applied to visual perception. Existing models have primarily focused on rigid objects, emphasizing shape-preserving invariance to changes in viewpoint, lighting, object size, and scene context. Yet many objects in our everyday environments, such as cloths, are soft. This poses both quantitatively greater and qualitatively different challenges for models of perception, due to soft objects' dynamic and high-dimensional internal structure — as in the changing folds and wrinkles of a cloth waving in the wind. Soft object perception is also correspondingly rich, involving novel properties such as stiffness. Here we explore the ability of different kinds of computational models to capture visual perception of the physical properties of cloths (e.g., their degrees of stiffness) undergoing different naturalistic transformations (e.g., falling vs. waving in the wind). Across visual matching tasks, both the successes and failures of human performance are well explained by Woven — a novel model that incorporates physics-based simulations to infer probabilistic representations of cloths. Woven outperforms powerful, performance-equated alternatives, including its ablations and a deep neural network, and suggests that humanlike machine vision may also require representations that transcend image statistics, and involve intuitive physics.
-        </p>
-    </details>
 
 <p></p><span class="badge badge--item">RELEVANT PRESENTATIONS</span>
 <p class="p1">
