@@ -30,6 +30,14 @@ github: https://github.com/ttomczak3/Milky-Way
   Your browser does not support the video, sorry! Feel free to email me for all the demos used in the experiments.
 </video>
 
+<span class="badge badge--item">RELEVANT PAPERS</span>
+<p class="p1">
+    Ongchoco, J. D. K., Wong, K. W., & Scholl, B. J. (<i>in press</i>). The “unfinishedness” of dynamic events is
+    spontaneously extracted in visual perception: A new ‘Visual Zeigarnik Effect’.
+    <b><i>Journal of Experimental Psychology: General</i></b>. <i>155</i>(3), 649–655.
+    <br><a class="footer__link" href="https://doi.org/10.1037/xge0001884" target="_blank">[DOI]</a> <a class="footer__link" href="/ongchoco-etal-2026-JEPG.pdf" target="_blank">[PDF]</a>
+</p>
+
 <span class="badge badge--item">RELEVANT PRESENTATIONS</span>
 <p class="p1">
     Ongchoco, J. D. K., Wong, K. W., & Scholl, B. J. (2025).
